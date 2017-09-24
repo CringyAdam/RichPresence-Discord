@@ -1,0 +1,12 @@
+{
+    "token": "DISCORD TOKEN",
+    "twitchurl": "YOUR TWITCH URL",	
+    "name": "PLAYING STATUS",
+    "subText": "SUBHEADER",
+    "state": "DESCRIPTION",
+    "applicationID": "DISCORD APP ID (CLIENT ID)",
+    "smallImgID": "THE ID OF THE SMALL IMAGE",	
+    "smallImgText": "ALT TEXT OF THE SMALL IMAGE",
+    "largeImgID": "THE ID OF THE LARGE IMAGE",
+    "largeImgText": "THE ALT TEXT OF THE LARGE IMAGE"
+}
